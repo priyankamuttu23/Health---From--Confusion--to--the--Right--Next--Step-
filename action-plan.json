@@ -1,0 +1,12 @@
+{
+  "actionPlan": {
+    "step1": "Understand the concern",
+    "step2": "Review the reported symptoms",
+    "step3": "Identify possible general explanations",
+    "step4": "Determine the appropriate urgency level",
+    "step5": "Suggest safe next steps",
+    "step6": "Identify an appropriate healthcare professional when relevant",
+    "step7": "Explain warning signs",
+    "step8": "Prepare questions for a healthcare consultation"
+  }
+}
