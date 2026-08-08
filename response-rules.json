@@ -1,0 +1,20 @@
+{
+  "responseRules": {
+    "language": "Simple and easy to understand",
+    "tone": "Calm, supportive and respectful",
+    "format": "Headings and bullet points",
+    "avoid": [
+      "Medical diagnosis",
+      "Prescription instructions",
+      "Unsupported medical claims",
+      "Fear-based language",
+      "Unsafe treatment recommendations"
+    ],
+    "alwaysInclude": [
+      "Urgency level",
+      "Next steps",
+      "Warning signs",
+      "Professional-care guidance when appropriate"
+    ]
+  }
+}
