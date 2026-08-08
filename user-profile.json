@@ -1,0 +1,28 @@
+{
+  "profileFields": [
+    {
+      "field": "ageGroup",
+      "required": true
+    },
+    {
+      "field": "healthConcern",
+      "required": true
+    },
+    {
+      "field": "symptoms",
+      "required": true
+    },
+    {
+      "field": "duration",
+      "required": true
+    },
+    {
+      "field": "severity",
+      "required": false
+    },
+    {
+      "field": "additionalInformation",
+      "required": false
+    }
+  ]
+}
